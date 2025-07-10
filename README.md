@@ -1,5 +1,7 @@
-💤 [Sleep Quality Prediction Using Smartphone 🔗]([https://colab.research.google.com/drive/1wsHDEYnpsCOGtLHOs1vG8g_MbxCbgTX-#scrollTo=Je8a8WuYermZ])
-
+# 💤 Sleep Quality Prediction Using Smartphone 
+🧠 ML Model: Logistic Regression  
+📊 Accuracy: 62.5%  
+🔗 [Live Demo](https://colab.research.google.com/drive/1wsHDEYnpsCOGtLHOs1vG8g_MbxCbgTX-#scrollTo=8LGo_rYPgzgQ)  
 
 
 📌 Project Overview
